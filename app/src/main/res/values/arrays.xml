@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quality_options">
+        <item>@string/quality_144</item>
+        <item>@string/quality_240</item>
+        <item>@string/quality_360</item>
+        <item>@string/quality_480</item>
+        <item>@string/quality_720</item>
+        <item>@string/quality_1080</item>
+    </string-array>
+    
+    <integer-array name="quality_values">
+        <item>144</item>
+        <item>240</item>
+        <item>360</item>
+        <item>480</item>
+        <item>720</item>
+        <item>1080</item>
+    </integer-array>
+</resources>
